@@ -1,6 +1,6 @@
 miniGPT2
 
-根据 GPT2 的结构图以及一些开源资料，基于 pytorch 和 tiktoken 库手动实现一个简易版的 miniGPT2
+根据 GPT2 的结构图以及一些开源资料，基于 pytorch 和 tiktoken 库手动实现一个简易版的 miniGPT2，从而加深自己对 LLM 的理解
 
 代码和理解笔记均已上传
 
